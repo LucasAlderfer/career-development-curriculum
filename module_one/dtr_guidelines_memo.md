@@ -66,72 +66,65 @@ Any additional questions that you would like to add:
 
 Project: Little Shop of Orders
 
-Group Member Names:  Keegan Corrigan, JP Lynch, Lucas Alderfer
+Group Member Names:  Connor Osburn, Lucas Alderfer
 
 Project Expectations: What does each group member hope to get out of this project?
 
-Keegan:  I really want the active record experience, good to work with a group, and I did not get much group work in Mod 1 so I am excited to get to do that and to gain experience there.  I enjoy project management, so I am hoping to use those skills to help others as well.  Understanding frameworks better, understanding the new tech etc.
+Connor: Setting up a good foundation in rails
 
-JP:  Getting down SQL and Sinatra better, learning Active Record.
-
-Lucas:  Push myself to be more uncomfortable earlier to have a stronger foundation for the mod.
+Lucas:  Same, also want to gain an understanding of app building in rails.
 
 Goals and expectations:
 
 Team strengths:
 
-Keegan:  Organized, strong planner, helps the rest of my work to go better.  Also good at presenting and public speaking.
-
-JP:  Analysis, get stuff to work, hopefully the way that frameworks work, algorithmic thinker.
+Connor: Logical Thinking.
 
 Lucas:  Analytical and focused.
 
 
 How to overcome obstacles:
 
-Keegan:  Depends on the nature of the obstacle, if its a lack of knowledge or understanding, discussion and research may help us.  If it is an interpersonal obstacle, that is more complex, leaning heavily on discussion is important.  We may need to compromise on things that are not that important when it conflicts with completion.  This relies heavily on empathy and understanding the other person in that obstacle.  
-
-JP:  Reference the DTR, talk as a group, if it doesn't work, go to instructors.
+Connor: Try harder.
 
 Lucas:  Defer, understand where the other people are coming from and discuss.
 
 
 Schedule Expectations (When are we available to work together and individually?):
 
-Keegan:  Set aside 6:30-9 for self on Wednesdays, mostly open to other times.  
-
-JP:  Open to most times, usually leave on Tuesdays around 6.
+Connor:  Mostly wanting split up work, mainly only can work together on weekends.  Need to leave by 6 on weekdays.
 
 Lucas:  When my wife works night shifts, need to leave by 6:45 pm.
 
 Communication Expectations (How and often will we communicate? How do we keep lines of communication open?):
 
-Slack, daily in person conversation, Trello board for specific tasks and functionality for specific tasks.
+Frankly, slack when apart.  Communicate up front.  
 
 Abilities Expectations (Technical strengths and areas for desired improvement):
 
-Keegan:  Fairly comfortable with HTML, CSS and have worked some in SQL before.
+Both Desired Improvement: CSS.
 
-JP: Sinatra, SQL, and frameworks in general for areas of desired imporvement.
+Connor:  Logical Thinking, knowing exactly what to do with controller/controllers.
 
-Lucas:  Uncomfortable, with html and css, would love to improve there and frameworks.
+Lucas:  Muscle memory of going through the process of creating rails stuff.
 
 Workload Expectations (What features do we each want to work on?):
 
+Aim for even split
 
-We all want to touch frameworks, set up guidelines as a group and split up the application of the guideline.
+Lucas: Database setup, CSS.
+
+Connor: Rails.
 
 
 Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests):
 
-
-Always work on your own branch, the naming on your branches need to be more specific, there is a way to set up a requirement in Github for merges to master to be impossible without review.  Slack requests for someone else to review before you merge.  All merges need to be reviewed by someone else first.  
+Working on individual branches, when your branch is tested and complete pull request to master but other team mate will merge.
 
 
 Expectations for giving and receiving feedback:
 
-Be honest.  Specific, Actionable, Kind.  Don't make assumptions, often they are wrong.  Problem is not the person.  Constructive feedback rather than blaming.
-
+Be honest.  Specific, Actionable, Kind.  Don't make assumptions, often they are wrong.  Problem is not the person.  Constructive feedback rather than blaming.  
 
 Agenda to discuss project launch:
 
@@ -139,10 +132,10 @@ Start with setting up our skeleton framework together and move from there once t
 
 Ideas:
 
-Follow spec, brainstorm as we go.
+Follow spec.
 
 Tools:
 
-Trello, Slack, GitHub.
+Slack, GitHub.
 
 Additional Notes:
