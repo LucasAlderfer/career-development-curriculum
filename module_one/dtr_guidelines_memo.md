@@ -135,7 +135,11 @@ Be honest.  Specific, Actionable, Kind.  Don't make assumptions, often they are 
 
 Agenda to discuss project launch:
 
+Start with setting up our skeleton framework together and move from there once the workflow is more clear.  Work as a team initially and see where we can split work if possible.
+
 Ideas:
+
+Follow spec, brainstorm as we go.
 
 Tools:
 
